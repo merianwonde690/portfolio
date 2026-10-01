@@ -1,3 +1,4 @@
+// App: puts all the sections together to build the full portfolio page
 import "./App.css"
 import Navbar from "./components/Navbar"
 import Hero from "./components/Hero"
@@ -11,6 +12,7 @@ import Footer from "./components/Footer"
 function App() {
   return (
     <div>
+       {/* Sections appear on the page in this order, top to bottom */}
       <Navbar />
       <Hero />
       <About />

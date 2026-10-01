@@ -1,3 +1,4 @@
+ // Education: my current university studies
 function Education() {
   return (
     <section id="education" className="education">

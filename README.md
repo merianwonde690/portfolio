@@ -1,16 +1,49 @@
-# React + Vite
+# Merian Wonde | Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi, I'm Merian, an Information Systems student at Addis Ababa University. I'm learning frontend development and working toward becoming a full-stack developer.
 
-Currently, two official plugins are available:
+This portfolio was built as my final project for the 2 Month Frontend Bootcamp. It showcases who I am, my skills, my education, and the projects I've built.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## What's Inside
 
-## React Compiler
+* **Home** — A quick introduction
+* **About** — A short bio about me
+* **Skills** — The technologies I'm learning and working with
+* **Projects** — Projects I've built, with links to GitHub
+* **Education** — My university studies
+* **Contact** — Links to my GitHub and LinkedIn, plus a message form
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Highlights
 
-## Expanding the ESLint configuration
+* Clean and modern design with a consistent color theme
+* Responsive design for desktop and mobile devices
+* Smooth scrolling navigation
+* Reusable React components, with a separate component for each section
+* Functional contact form using JavaScript
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Built With
+
+* React
+* Vite
+* JavaScript
+* CSS
+* Git
+* GitHub
+
+## Run It on Your Computer
+
+```bash
+git clone https://github.com/merianwonde690/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
+
+Then open the link shown in the terminal, usually:
+
+`http://localhost:5173`
+
+## Let's Connect
+
+* **GitHub:** [merianwonde690](https://github.com/merianwonde690)
+* **LinkedIn:** [Merian Wonde](https://www.linkedin.com/in/merian-wonde-61b98a338)

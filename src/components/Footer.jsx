@@ -1,3 +1,4 @@
+ // Footer: copyright line at the bottom of the page
 function Footer() {
   return (
     <footer className="footer">

@@ -1,3 +1,4 @@
+// About: short bio about me
 function About() {
   return (
     <section id="about" className="about">

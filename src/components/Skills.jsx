@@ -1,3 +1,4 @@
+ // Skills: cards for the technologies I work with
 const skills = [
   {
     name: "HTML",

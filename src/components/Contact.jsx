@@ -1,6 +1,4 @@
-// Contact section: GitHub/LinkedIn links and a message form
 function Contact() {
-  // Opens the visitor's email app with their message ready to send
   function handleSubmit(e) {
     e.preventDefault()
     const data = new FormData(e.target)

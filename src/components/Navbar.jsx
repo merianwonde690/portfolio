@@ -1,3 +1,4 @@
+ // Navbar: sticky top navigation with links to each section
 function Navbar() {
   return (
     <nav className="navbar">

@@ -6,7 +6,9 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 90px;
 }
+
 
 body {
   font-family: Inter, Arial, sans-serif;
@@ -24,7 +26,7 @@ button,
 a {
   cursor: pointer;
 }
-
+/* ===== Hero ===== */
 .hero {
   min-height: 70vh;
   display: flex;
@@ -96,7 +98,7 @@ a {
 .hero-buttons a:last-child:hover {
   background: #e6f4f1;
 }
-
+/* ===== Navbar ===== */
 .navbar {
   position: sticky;
   top: 0;
@@ -132,17 +134,15 @@ a {
 .nav-links a:hover {
   color: #0f766e;
 }
-
+/* ===== About ===== */
 .about {
   padding: 100px 8%;
 }
-
 .about-content {
   max-width: 850px;
   margin: 0 auto;
   text-align: center;
 }
-
 .section-label {
   margin-bottom: 12px;
   font-size: 0.95rem;
@@ -151,26 +151,22 @@ a {
   text-transform: uppercase;
   color: #0f766e;
 }
-
 .about h2 {
   max-width: 700px;
   margin: 0 auto 32px;
   font-size: 2.5rem;
   line-height: 1.2;
 }
-
-
 .about-text {
   display: flex;
   flex-direction: column;
   gap: 20px;
 }
-
 .about-text p {
   font-size: 1.05rem;
   color: #64748b;
 }
-
+/* ===== Skills ===== */
 .skills {
   padding: 100px 8%;
 }
@@ -213,7 +209,7 @@ a {
 .skill-card p {
   color: #64748b;
 }
-
+/* ===== Projects ===== */
 .projects {
   padding: 100px 8%;
 }
@@ -301,7 +297,7 @@ a {
   background: #0f766e;
   color: #ffffff;
 }
-
+/* ===== Education ===== */
 .education {
   padding: 100px 8%;
   text-align: center;
@@ -345,7 +341,7 @@ a {
   margin-bottom: 8px;
   font-weight: 600;
 }
-
+/* ===== Contact ===== */
 .contact {
   padding: 100px 8%;
   text-align: center;
@@ -433,7 +429,7 @@ a {
 .contact-form button:hover {
   background: #115e59;
 }
-
+/* ===== Footer ===== */
 .footer {
   padding: 30px 8%;
   border-top: 1px solid #e2e8f0;
@@ -441,7 +437,7 @@ a {
   color: #64748b;
   font-size: 0.9rem;
 }
-
+/* ===== Mobile layout (screens under 768px) ===== */
 @media (max-width: 768px) {
   .navbar {
     padding: 14px 5%;

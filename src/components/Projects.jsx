@@ -1,3 +1,4 @@
+// Projects: grid of project cards// Projects: list of my projects, rendered with the ProjectCard component
 import ProjectCard from "./ProjectCard"
 
 const projects = [

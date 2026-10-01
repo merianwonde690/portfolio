@@ -1,3 +1,4 @@
+// Hero: introduction with my name, title and call to action buttons
 function Hero() {
   return (
     <section id="home" className="hero">
